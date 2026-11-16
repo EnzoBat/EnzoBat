@@ -1,16 +1,23 @@
-## Hi there 👋
+ ##Olá! Eu sou o Enzo 👋
 
-<!--
-**EnzoBat/EnzoBat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Técnico em Análise e Desenvolvimento de Sistemas no Senac.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em tecnologia, desenvolvimento de sistemas e gestão de projetos de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ao longo da minha formação, venho desenvolvendo conhecimentos em programação, banco de dados, prototipação e metodologias ágeis, além de experiências acadêmicas envolvendo liderança, planejamento, organização de equipes e levantamento de requisitos.
+
+## 🛠️ Tecnologias e ferramentas
+
+- **Linguagens:** HTML, CSS e JavaScript
+- **Desenvolvimento:** Node.js, React e React Native
+- **Banco de dados:** MySQL e SQL
+- **Ferramentas:** Git, GitHub, Visual Studio Code, Figma, Quantux, Googlestitch e GLPI
+- **Metodologias:** Scrum e Kanban
+
+## 🎯 Objetivos
+
+Busco ampliar meus conhecimentos em tecnologia e desenvolver minhas habilidades em gestão de projetos, liderança e organização de equipes de TI.
+
+## 🤝 Vamos nos conectar!
+
+Estou aberto a oportunidades de aprendizagem, colaboração e novos projetos!
